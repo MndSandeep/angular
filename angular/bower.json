@@ -1,0 +1,14 @@
+{
+  "name": "angular",
+  "authors": [
+    "sandeep.a <sandeep.allamsetti@kagamierp.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+   "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
